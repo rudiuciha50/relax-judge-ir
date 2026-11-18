@@ -1,1 +1,2 @@
-import sys;sys.stdout.write("breathe in, breathe out. you are doing fine.\n")
+import sys
+sys.stdout.write("The kettle has just gone quiet. Steam thins into the kitchen air, and for a moment nothing needs to happen. Your hands rest on the counter. Outside, a bird you cannot name is singing to no one in particular, and the sound arrives without asking anything of you.\n")
